@@ -24,7 +24,7 @@ setup(
     python_requires=">=3.7",
     install_requires=[
         "pipelinewise-singer-python~=1.0",
-        "snowflake-connector-python[pandas]~=3.10.0",
+        "snowflake-connector-python[pandas]~=3.12.0",
         "inflection~=0.5.1",
         "joblib~=1.2.0",
         "boto3~=1.28.20",
